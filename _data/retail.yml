@@ -708,6 +708,14 @@ websites:
       btc: yes
       othercrypto: yes
 
+    - name: WK END eyewear
+      url: https://wkend.club/
+      img: wkend.png
+      facebook: wkend.club
+      bch: yes
+      btc: no
+      othercrypto: yes
+
     - name: Zappos
       url: http://www.zappos.com/
       twitter: Zappos
